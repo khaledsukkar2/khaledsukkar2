@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi there! 😊 I’m a Software Developer with expertise in Python and Django, holding a degree in Computer Engineering and a Meta certification.
-I’ve delivered diverse projects, including e-learning apps and SaaS systems. 🚀
+I’ve delivered diverse projects, including citizen's complaints system and SaaS systems. 🚀
 Currently, I’m working on an e-learning app and learning the MERN stack. 📚
 I’m passionate about web development, programming, Web3, blockchain, and smart contracts. 💡
 I’m also an active open-source contributor. 🌟
