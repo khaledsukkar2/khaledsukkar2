@@ -26,8 +26,8 @@ I craft scalable, high-impact software solutions with **4+ years of experience**
 
 I believe in giving back to the developer community. Here are some packages I've created:
 
-- **[django-swift-crud](https://github.com/khaled-sukkar/django-swift-crud)** – Accelerate Django CRUD operations with minimal boilerplate.
-- **[drf-shapeless-serializers](https://github.com/khaled-sukkar/drf-shapeless-serializers)** – Flexible, dynamic serializers for Django REST Framework.
+- **[django-swift-crud](https://github.com/khaledsukkar2/django-swift-crud)** – Accelerate Django CRUD operations with minimal boilerplate.
+- **[drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers)** – Flexible, dynamic serializers for Django REST Framework.
 
 **Currently Cooking:** Building high-performance Rust-based serializers for Django REST and fascinating  wallet-related Django package.
 
