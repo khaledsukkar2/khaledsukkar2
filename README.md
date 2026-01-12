@@ -65,13 +65,3 @@ If you appreciate my open-source contributions:
 Support helps me build more tools for the community. Thank you! 🙏
 
 ---
-
-### 📈 **GitHub Stats**
-
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaled-sukkar&show_icons=true&theme=radical)
-
----
-
-*"Code is poetry when it's clean, scalable, and impactful."*
-
----
