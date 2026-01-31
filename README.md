@@ -28,6 +28,7 @@ I believe in giving back to the developer community. Here are some packages I've
 
 - **[django-swift-crud](https://github.com/khaledsukkar2/django-swift-crud)** – Accelerate Django CRUD operations with minimal boilerplate.
 - **[drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers)** – Flexible, dynamic serializers for Django REST Framework.
+- **[dj-wallet](https://github.com/khaledsukkar2/dj-wallet)** – A secure, flexible, and powerful virtual wallet system for Django applications..
 
 **Currently Cooking:** Building high-performance Rust-based serializers for Django REST and fascinating  wallet-related Django package.
 
